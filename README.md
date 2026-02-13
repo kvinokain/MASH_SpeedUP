@@ -11,22 +11,22 @@ https://github.com/kvinokain/MASH_SpeedUP/raw/refs/heads/main/speedmesh.zip
 
 > ⚠️ Расширение пока не опубликовано в Chrome Web Store. Установка возможна только вручную.
 
-# 1. [Скачайте](https://github.com/kvinokain/MASH_SpeedUP/raw/refs/heads/main/speedmeshV1.0.1.zip) или клонируйте репозиторий с исходным кодом.
-# 2. Откройте браузер (Chrome, Edge, Yandex Browser и др.) и перейдите в:  
+## 1. [Скачайте](https://github.com/kvinokain/MASH_SpeedUP/raw/refs/heads/main/speedmeshV1.0.1.zip) или клонируйте репозиторий с исходным кодом.
+## 2. Откройте браузер (Chrome, Edge, Yandex Browser и др.) и перейдите в:  
    ``chrome://extensions/`` или зайдите в управление расширениями:
    <img width="322" height="403" alt="image" src="https://github.com/user-attachments/assets/10c71b89-38e1-4bc1-bcb0-edb294f0d3ef" />
    
-# 3. Включите **«Режим разработчика»** (Developer mode) в правом верхнем углу.
-# 4. Нажмите **«Загрузить распакованное расширение»** (Load unpacked).
+## 3. Включите **«Режим разработчика»** (Developer mode) в правом верхнем углу.
+## 4. Нажмите **«Загрузить распакованное расширение»** (Load unpacked).
    
 <img width="1731" height="157" alt="image" src="https://github.com/user-attachments/assets/233f371f-c756-4f38-8962-65d77dc51c3c" />
 
-# 5. Выберите папку с файлами расширения.
+## 5. Выберите папку с файлами расширения.
 
    
 <img width="1198" height="951" alt="image" src="https://github.com/user-attachments/assets/cd55b3fb-0235-43d1-a1fc-7ee1518cd74e" />
 
-# 6. ✅ Готово! Расширение активировано. Не забудьте его закрепить, для доступа к функционалу.
+## 6. ✅ Готово! Расширение активировано. Не забудьте его закрепить, для доступа к функционалу.
 
 <img width="330" height="582" alt="image" src="https://github.com/user-attachments/assets/65233e40-8cf3-4ea9-b4b5-47dd93c35895" />
 
